@@ -1,7 +1,7 @@
 # About me
 
-I am a PhD student at the Thayer School of Engineering at Dartmouth College in the Keller Lab Group. My background is in physics, GIS, and education.
+I am a PhD student at the Thayer School of Engineering at Dartmouth College in the Keller Lab Group and the Sustainable Transitions Lab. My background is in physics, GIS, and education.
 
-- 🔭 I’m am interested in working on questions related to household decarbonization, energy grids, and how we can adapt to climate change
-- 📫 How to reach me: alexis.i.hudes@dartmouth.edu
+- 🔭 I am interested in working on research to support decarbonization policies that balance economic viability, climate mitigation, and equity
+- 📫 How to reach me: alexis.hudes.th@dartmouth.edu
 - 😄 Pronouns: they/them
